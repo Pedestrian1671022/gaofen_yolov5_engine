@@ -1,0 +1,3 @@
+# Classes
+nc: 2  # number of classes
+names: ['plane', 'ship']  # class names
